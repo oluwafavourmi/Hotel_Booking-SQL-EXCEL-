@@ -1,3 +1,6 @@
+
+![viz](https://github.com/oluwafavourmi/Hotel_Booking-SQL-EXCEL-/blob/main/viz/Hotel.png)
+
 # Hotel_Booking-SQL-EXCEL-
 analysis of hotel booking data using SQL and EXCEL
 
